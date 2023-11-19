@@ -5,7 +5,7 @@ There is product app inside admin project.</br>
 This admin is created using django.</br>
 Inside product app there is product model that maps with product table in main app.</br>
 This main app is created using flask.</br>
-----Operations---</br>
+<h2>----Operations---</h2>h2></br>
 Changes in product table in admin app should be reflected in product table in main app using rabbitmq.</br>
 Code is in views.py of product app in admin project.</br>
 
